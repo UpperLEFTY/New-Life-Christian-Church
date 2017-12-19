@@ -3,9 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^3.3.7",
+    "flow-bin": "^0.61.0",
+    "husky": "^0.14.3",
+    "less": "^2.7.3",
+    "lint-staged": "^6.0.0",
+    "node-sass-chokidar": "0.0.3",
+    "prettier": "^1.9.2",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.0.17"
+    "react-router": "^4.2.0",
+    "react-scripts": "1.0.17",
+    "sass": "^1.0.0-beta.4",
+    "webpack": "^3.10.0"
   },
   "scripts": {
     "start": "react-scripts start",
