@@ -17,6 +17,7 @@ import './_grid.scss';
 import './_jumbotron.scss';
 import './_media.scss';
 import './_mixins.scss';
+import './_modals.scss';
 import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
