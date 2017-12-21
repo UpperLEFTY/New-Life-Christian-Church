@@ -2,7 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import './_bootstrap-compass.scss';
-import './alerts.scss';
+import './_alerts.scss';
+import './_badges-scss';
+import './_breadcrumbs.scss';
 import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 
