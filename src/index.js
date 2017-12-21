@@ -16,6 +16,7 @@ import './_glyphicons.scss';
 import './_grid.scss';
 import './_jumbotron.scss';
 import './_media.scss';
+import './_mixins.scss';
 import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
