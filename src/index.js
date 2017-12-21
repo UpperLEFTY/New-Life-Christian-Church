@@ -8,6 +8,7 @@ import './_breadcrumbs.scss';
 import App from './App';
 import './_button-groups.scss';
 import './_buttons.scss';
+import './_close.scss';
 import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
