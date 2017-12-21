@@ -23,6 +23,7 @@ import './_navs.scss';
 import './_normalize.scss';
 import './_pagination.scss';
 import './_responsive-embed.scss';
+import './_tables.scss';
 import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
