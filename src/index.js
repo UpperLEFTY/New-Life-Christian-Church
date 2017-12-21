@@ -25,6 +25,7 @@ import './_pagination.scss';
 import './_responsive-embed.scss';
 import './_tables.scss';
 import './_themes.scss';
+import './_variables.scss';
 import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
