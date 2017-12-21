@@ -10,6 +10,7 @@ import './_button-groups.scss';
 import './_buttons.scss';
 import './_close.scss';
 import '/_code.scss';
+import '/_dropdowns.scss';
 import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
