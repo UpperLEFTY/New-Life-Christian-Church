@@ -19,6 +19,8 @@ import './_media.scss';
 import './_mixins.scss';
 import './_modals.scss';
 import './_navbar.scss';
+import './_navs.scss';
+import './_normalize.scss';
 import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
