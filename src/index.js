@@ -14,6 +14,7 @@ import './_dropdowns.scss';
 import './_forms:scss';
 import './_glyphicons.scss';
 import './_grid.scss';
+import './_jumbotron.scss';
 import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
