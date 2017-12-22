@@ -1,8 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import './_badges-scss';
-import './_breadcrumbs.scss';
 import App from './App';
 import './_button-groups.scss';
 import './_buttons.scss';
