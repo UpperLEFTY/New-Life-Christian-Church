@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import './_alerts.scss';
 import './_badges-scss';
 import './_breadcrumbs.scss';
 import App from './App';
