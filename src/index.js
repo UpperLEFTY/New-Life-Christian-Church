@@ -22,7 +22,6 @@ import './_responsive-embed.scss';
 import './_tables.scss';
 import './_themes.scss';
 import './_variables.scss';
-import './_bootstrap.mincer.scss';
 import './style.scss';
 import registerServiceWorker from './registerServiceWorker';
 
