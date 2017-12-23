@@ -9,7 +9,6 @@ import './mixins.scss';
 import './navbar.scss';
 import './navs.scss';
 import './normalize.scss';
-import './themes.scss';
 import './variables.scss';
 import './style.scss';
 import registerServiceWorker from './registerServiceWorker';
