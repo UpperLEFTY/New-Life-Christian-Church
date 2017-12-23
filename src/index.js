@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import './code.scss';
 import './dropdowns.scss';
 import './forms:scss';
 import './glyphicons.scss';
