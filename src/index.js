@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import './buttons.scss';
 import './close.scss';
 import './code.scss';
 import './dropdowns.scss';
