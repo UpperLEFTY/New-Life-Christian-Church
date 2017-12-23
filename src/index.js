@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import './jumbotron.scss';
 import './mixins.scss';
 import './navbar.scss';
 import './navs.scss';
