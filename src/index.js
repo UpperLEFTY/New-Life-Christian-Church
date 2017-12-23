@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import './button-groups.scss';
 import './buttons.scss';
 import './close.scss';
 import './code.scss';
