@@ -11,7 +11,6 @@ import './navbar.scss';
 import './navs.scss';
 import './normalize.scss';
 import './pagination.scss';
-import './tables.scss';
 import './themes.scss';
 import './variables.scss';
 import './style.scss';
