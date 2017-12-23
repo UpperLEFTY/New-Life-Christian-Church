@@ -7,7 +7,6 @@ import './forms:scss';
 import './jumbotron.scss';
 import './media.scss';
 import './mixins.scss';
-import './modals.scss';
 import './navbar.scss';
 import './navs.scss';
 import './normalize.scss';
