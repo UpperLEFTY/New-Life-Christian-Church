@@ -5,7 +5,6 @@ import App from './App';
 import './dropdowns.scss';
 import './forms:scss';
 import './jumbotron.scss';
-import './media.scss';
 import './mixins.scss';
 import './navbar.scss';
 import './navs.scss';
